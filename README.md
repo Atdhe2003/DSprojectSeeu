@@ -13,8 +13,6 @@ Real-time bidirectional communication using TCP sockets for reliable message pas
 
 A graphical user interface (GUI) for user interaction, built using the Tkinter framework.
 
-Fault tolerance by detecting disconnections. The server can accept a new player to continue the game even if the current client disconnects.
-
 The game state and user turns are consistently updated and shared across network nodes, ensuring both players have the current view of the board.
 
 Relation to Distributed Systems Concepts
